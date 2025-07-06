@@ -2,4 +2,4 @@ fastapi
 uvicorn
 pdfkit
 python-multipart
-openai
+openaipython-dotenv
